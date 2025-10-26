@@ -1,0 +1,46 @@
+body {
+  font-family: "Vazir", sans-serif;
+  direction: rtl;
+  background-color: rgb(100, 240, 210);
+  color: #3d3c3c;
+  padding: 30px;
+  margin: 0;
+}
+
+h1 {
+  color: #d00000;
+  text-align: center;
+}
+
+.container {
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  padding: 30px;
+  max-width: 500px;
+  margin: 40px auto;
+}
+
+a {
+  display: inline-block;
+  margin-top: 20px;
+  text-decoration: none;
+  background-color: #d00000;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 8px;
+  transition: 0.3s;
+}
+
+a:hover {
+  background-color: #900000;
+}
+
+.home-links {
+  text-align: center;
+}
+
+.home-links a {
+  margin: 10px;
+  padding: 12px 25px;
+}
