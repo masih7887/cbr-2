@@ -3,25 +3,22 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CBR 1000rrr Fireblade</title>
-        <link rel="stylesheet" href="cbr.css">
-
+    <title>header</title>
 </head>
 <body>
-    
+
     <div class="header">
         <div class="header">
             <header class="header1">
-                <h1 class="header2">لوگوی من</h1>
+                <h1 class="header2">CBR</h1>
                 <nav class="header3">
-                    <a href="login.html">login</a>
-                    <a href="ma.html">درباره ما</a>
-                    <a href="#"> تصاویر</a>
-                    <a href="cbr.html">خانه</a>
+                    <a href="login.php">login</a>
+                    <a href="ma.php">درباره ما</a>
+                    <a href="pic.php"> تصاویر</a>
+                    <a href="index.php">خانه</a>
                 </nav>
             </header>
         </div>
     </div>
-
 </body>
 </html>

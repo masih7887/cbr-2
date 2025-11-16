@@ -1,3 +1,7 @@
+body{
+    margin: 0;
+    background-color: #3d2727;
+}
 .header {
     font-family: Roboto;
     -moz-osx-font-smoothing: grayscale;
@@ -73,8 +77,10 @@ body {
 }
 
 .gadval {
+ 
+    margin: 12px auto;
     background-color: rgb(229, 235, 129);
-    width: 100%;
+    width: 99%;
     height: auto;
     border-radius: 12px;
     box-shadow: 0 0 10px rgb(255, 0, 0);
@@ -96,7 +102,7 @@ body {
     color: white;
     padding: 12px 35px;
     border-radius: 8px;
-    margin: 35px;
+    margin: 0 12px 30px 12px;
     transition: all 0.2s ease;
 }
 

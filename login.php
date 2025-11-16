@@ -8,20 +8,7 @@
 </head>
 
 <body>
-        <div class="header">
-        <div class="header">
-            <header class="header1">
-                <h1 class="header2">لوگوی من</h1>
-                <nav class="header3">
-                    <a href="login.html">login</a>
-                    <a href="ma.html">درباره ما</a>
-                    <a href="#"> تصاویر</a>
-                    <a href="cbr.html">خانه</a>
-                </nav>
-            </header>
-        </div>
-    </div>
-
+<?php include('header.php'); ?>
     <form id="loginForm">
         <input type="text" id="username">
         <input type="password" id="password">
